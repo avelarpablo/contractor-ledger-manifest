@@ -1,0 +1,7 @@
+{
+  "version": "0.0.0",
+  "appImage": "ghcr.io/avelarpablo/contractor-ledger:latest",
+  "releasedAt": "2026-07-08T00:00:00Z",
+  "releaseNotes": null,
+  "cliDownloads": {}
+}
