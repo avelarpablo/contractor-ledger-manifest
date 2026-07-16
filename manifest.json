@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "appImage": "ghcr.io/avelarpablo/contractor-ledger:0.2.0",
-  "releasedAt": "2026-07-16T00:08:03Z",
-  "releaseNotes": "https://github.com/avelarpablo/contractor-ledger/releases/tag/v0.2.0",
+  "version": "0.2.1",
+  "appImage": "ghcr.io/avelarpablo/contractor-ledger:0.2.1",
+  "releasedAt": "2026-07-16T00:53:12Z",
+  "releaseNotes": "https://github.com/avelarpablo/contractor-ledger/releases/tag/v0.2.1",
   "trayDownloads": {
-    "macos-arm64": "https://github.com/avelarpablo/contractor-ledger/releases/download/v0.2.0/Contractor-Ledger_0.2.0_aarch64.dmg",
-    "macos-x86_64": "https://github.com/avelarpablo/contractor-ledger/releases/download/v0.2.0/Contractor-Ledger_0.2.0_x64.dmg",
-    "windows-x86_64": "https://github.com/avelarpablo/contractor-ledger/releases/download/v0.2.0/Contractor-Ledger_0.2.0_x64-setup.msi"
+    "macos-arm64": "https://github.com/avelarpablo/contractor-ledger/releases/download/v0.2.1/Contractor-Ledger_0.2.1_aarch64.dmg",
+    "macos-x86_64": "https://github.com/avelarpablo/contractor-ledger/releases/download/v0.2.1/Contractor-Ledger_0.2.1_x64.dmg",
+    "windows-x86_64": "https://github.com/avelarpablo/contractor-ledger/releases/download/v0.2.1/Contractor-Ledger_0.2.1_x64-setup.msi"
   }
 }
